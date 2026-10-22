@@ -1,0 +1,13 @@
+id_genero,Genre,Genero
+1,Action,Acción
+2,Adventure,Aventura
+3,Fighting,Pelea
+4,Misc,Misceláneo
+5,Platform,Plataformas
+6,Puzzle,Puzle
+7,Racing,Carreras
+8,Role-Playing,Rol (RPG)
+9,Shooter,Disparos
+10,Simulation,Simulación
+11,Sports,Deportes
+12,Strategy,Estrategia

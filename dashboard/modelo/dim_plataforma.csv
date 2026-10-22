@@ -1,0 +1,32 @@
+id_plataforma,Platform,Plataforma_Nombre,Fabricante,Tipo_Plataforma,Generacion
+1,2600,Atari 2600,Atari,Sobremesa,2.0
+2,NES,NES,Nintendo,Sobremesa,3.0
+3,GB,Game Boy,Nintendo,Portátil,4.0
+4,GEN,Sega Genesis,Sega,Sobremesa,4.0
+5,GG,Game Gear,Sega,Portátil,4.0
+6,NG,Neo Geo,SNK,Sobremesa,4.0
+7,SCD,Sega CD,Sega,Sobremesa,4.0
+8,SNES,Super Nintendo,Nintendo,Sobremesa,4.0
+9,TG16,TurboGrafx-16,NEC,Sobremesa,4.0
+10,3DO,3DO,Panasonic,Sobremesa,5.0
+11,N64,Nintendo 64,Nintendo,Sobremesa,5.0
+12,PCFX,PC-FX,NEC,Sobremesa,5.0
+13,PS,PlayStation,Sony,Sobremesa,5.0
+14,SAT,Sega Saturn,Sega,Sobremesa,5.0
+15,WS,WonderSwan,Bandai,Portátil,5.0
+16,DC,Dreamcast,Sega,Sobremesa,6.0
+17,GBA,Game Boy Advance,Nintendo,Portátil,6.0
+18,GC,GameCube,Nintendo,Sobremesa,6.0
+19,PS2,PlayStation 2,Sony,Sobremesa,6.0
+20,XB,Xbox,Microsoft,Sobremesa,6.0
+21,DS,Nintendo DS,Nintendo,Portátil,7.0
+22,PS3,PlayStation 3,Sony,Sobremesa,7.0
+23,PSP,PSP,Sony,Portátil,7.0
+24,Wii,Wii,Nintendo,Sobremesa,7.0
+25,X360,Xbox 360,Microsoft,Sobremesa,7.0
+26,3DS,Nintendo 3DS,Nintendo,Portátil,8.0
+27,PS4,PlayStation 4,Sony,Sobremesa,8.0
+28,PSV,PS Vita,Sony,Portátil,8.0
+29,WiiU,Wii U,Nintendo,Sobremesa,8.0
+30,XOne,Xbox One,Microsoft,Sobremesa,8.0
+31,PC,PC,PC,PC,

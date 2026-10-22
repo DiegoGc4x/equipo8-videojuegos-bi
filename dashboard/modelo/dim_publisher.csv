@@ -1,0 +1,577 @@
+id_publisher,Publisher,es_fabricante
+1,Nintendo,True
+2,Electronic Arts,False
+3,Activision,False
+4,Sony Computer Entertainment,True
+5,Ubisoft,False
+6,Take-Two Interactive,False
+7,THQ,False
+8,Konami Digital Entertainment,False
+9,Sega,True
+10,Namco Bandai Games,False
+11,Microsoft Game Studios,True
+12,Capcom,False
+13,Atari,False
+14,Square Enix,False
+15,Warner Bros. Interactive Entertainment,False
+16,Disney Interactive Studios,False
+17,Eidos Interactive,False
+18,LucasArts,False
+19,Bethesda Softworks,False
+20,Midway Games,False
+21,Acclaim Entertainment,False
+22,SquareSoft,False
+23,Vivendi Games,False
+24,505 Games,False
+25,Tecmo Koei,False
+26,Codemasters,False
+27,Virgin Interactive,False
+28,Enix Corporation,False
+29,Deep Silver,False
+30,GT Interactive,False
+31,D3Publisher,False
+32,Sony Computer Entertainment Europe,True
+33,Hudson Soft,False
+34,Unknown,False
+35,MTV Games,False
+36,Universal Interactive,False
+37,Banpresto,False
+38,Rising Star Games,False
+39,Infogrames,False
+40,Majesco Entertainment,False
+41,Hasbro Interactive,False
+42,Nippon Ichi Software,False
+43,989 Studios,False
+44,Zoo Digital Publishing,False
+45,Atlus,False
+46,Level 5,False
+47,Empire Interactive,False
+48,ASCII Entertainment,False
+49,3DO,False
+50,Crave Entertainment,False
+51,RedOctane,False
+52,TDK Mediactive,False
+53,Mindscape,False
+54,Global Star,False
+55,Focus Home Interactive,False
+56,Fox Interactive,False
+57,Psygnosis,False
+58,Activision Value,False
+59,Ignition Entertainment,False
+60,Interplay,False
+61,SouthPeak Games,False
+62,Spike,False
+63,Red Orb,False
+64,Parker Bros.,False
+65,Tomy Corporation,False
+66,BAM! Entertainment,False
+67,Imagic,False
+68,Zoo Games,False
+69,Arena Entertainment,False
+70,Koch Media,False
+71,City Interactive,False
+72,Ubisoft Annecy,False
+73,Nordic Games,False
+74,Destineer,False
+75,Play It,False
+76,PQube,False
+77,Marvelous Interactive,False
+78,Palcom,False
+79,ChunSoft,False
+80,Idea Factory,False
+81,Game Factory,False
+82,Kadokawa Shoten,False
+83,Gotham Games,False
+84,Natsume,False
+85,GSP,False
+86,Square,False
+87,Ocean,False
+88,DTP Entertainment,False
+89,Sony Online Entertainment,False
+90,SCi,False
+91,Mattel Interactive,False
+92,Takara,False
+93,Oxygen Interactive,False
+94,Maxis,False
+95,Titus,False
+96,Valve Software,False
+97,GungHo,False
+98,Coleco,False
+99,Human Entertainment,False
+100,Avanquest,False
+101,Scholastic Inc.,False
+102,Mojang,False
+103,Black Bean Games,False
+104,Taito,False
+105,JVC,False
+106,Sammy Corporation,False
+107,Telltale Games,False
+108,Midas Interactive Entertainment,False
+109,Takara Tomy,False
+110,Ghostlight,False
+111,Imagineer,False
+112,Alchemist,False
+113,SNK,False
+114,NCSoft,False
+115,Rondomedia,False
+116,Compile,False
+117,Marvelous Entertainment,False
+118,Red Storm Entertainment,False
+119,UEP Systems,False
+120,Mastiff,False
+121,Enterbrain,False
+122,Kemco,False
+123,Video System,False
+124,Little Orbit,False
+125,ASC Games,False
+126,RTL,False
+127,Microprose,False
+128,Success,False
+129,Kalypso Media,False
+130,Agetec,False
+131,20th Century Fox Video Games,False
+132,Nobilis,False
+133,Jaleco,False
+134,Zushi Games,False
+135,Metro 3D,False
+136,Rocket Company,False
+137,System 3 Arcade Software,False
+138,Valve,False
+139,Mastertronic,False
+140,Crystal Dynamics,False
+141,Avanquest Software,False
+142,Hudson Entertainment,False
+143,Accolade,False
+144,Xplosiv,False
+145,From Software,False
+146,5pb,False
+147,Hello Games,False
+148,Touchstone,False
+149,PopCap Games,False
+150,LEGO Media,False
+151,Storm City Games,False
+152,Westwood Studios,False
+153,Laguna,False
+154,JoWood Productions,False
+155,Arc System Works,False
+156,Knowledge Adventure,False
+157,Genki,False
+158,XS Games,False
+159,Tigervision,False
+160,Pinnacle,False
+161,Rage Software,False
+162,Slightly Mad Studios,False
+163,GameMill Entertainment,False
+164,Compile Heart,False
+165,NewKidCo,False
+166,FuRyu,False
+167,Milestone S.r.l.,False
+168,Aqua Plus,False
+169,Brash Entertainment,False
+170,Russel,False
+171,Falcom Corporation,False
+172,Black Label Games,False
+173,Playlogic Game Factory,False
+174,Gathering of Developers,False
+175,Aruze Corp,False
+176,Sony Computer Entertainment America,True
+177,BMG Interactive Entertainment,False
+178,Jester Interactive,False
+179,Trion Worlds,False
+180,Gust,False
+181,Gremlin Interactive Ltd,False
+182,O-Games,False
+183,Mentor Interactive,False
+184,Acquire,False
+185,Epoch,False
+186,Telegames,False
+187,Big Ben Interactive,False
+188,SNK Playmore,False
+189,UFO Interactive,False
+190,IE Institute,False
+191,Broccoli,False
+192,Sunsoft,False
+193,Nippon Columbia,False
+194,DreamCatcher Interactive,False
+195,Jorudan,False
+196,Screenlife,False
+197,Funbox Media,False
+198,CTO SpA,False
+199,Xseed Games,False
+200,Victor Interactive,False
+201,"Destination Software, Inc",False
+202,Quelle,False
+203,TalonSoft,False
+204,"mixi, Inc",False
+205,Mud Duck Productions,False
+206,Ackkstudios,False
+207,Conspiracy Entertainment,False
+208,Bigben Interactive,False
+209,NovaLogic,False
+210,Mystique,False
+211,Square EA,False
+212,Harmonix Music Systems,False
+213,NEC Interchannel,False
+214,Men-A-Vision,False
+215,Nihon Falcom Corporation,False
+216,Paradox Interactive,False
+217,Pioneer LDC,False
+218,Gamebridge,False
+219,ArtDink,False
+220,Starfish,False
+221,Quest,False
+222,Data Age,False
+223,Illusion Softworks,False
+224,Sting,False
+225,Media Rings,False
+226,Wanadoo,False
+227,Astragon,False
+228,Elf,False
+229,Seta Corporation,False
+230,Universal Gamex,False
+231,Foreign Media Games,False
+232,Wizard Video Games,False
+233,Aspyr,False
+234,TDK Core,False
+235,Idea Factory International,False
+236,Prototype,False
+237,Nordcurrent,False
+238,Asylum Entertainment,False
+239,ESP,False
+240,Mumbo Jumbo,False
+241,Kadokawa Games,False
+242,CPG Products,False
+243,AQ Interactive,False
+244,BPS,False
+245,The Adventure Company,False
+246,Hect,False
+247,Answer Software,False
+248,Popcorn Arcade,False
+249,Rebellion,False
+250,Swing! Entertainment,False
+251,Avalon Interactive,False
+252,Pack In Soft,False
+253,Activision Blizzard,False
+254,Irem Software Engineering,False
+255,Valcon Games,False
+256,Home Entertainment Suppliers,False
+257,PlayV,False
+258,Aksys Games,False
+259,Shogakukan,False
+260,Angel Studios,False
+261,NEC,False
+262,Tetris Online,False
+263,TYO,False
+264,Jack of All Games,False
+265,Electronic Arts Victor,False
+266,bitComposer Games,False
+267,Magical Company,False
+268,P2 Games,False
+269,MTO,False
+270,NCS,False
+271,Microids,False
+272,ValuSoft,False
+273,989 Sports,False
+274,Blast! Entertainment Ltd,False
+275,Graffiti,False
+276,Hip Interactive,False
+277,Performance Designed Products,False
+278,New,False
+279,DSI Games,False
+280,Magix,False
+281,Time Warner Interactive,False
+282,ITT Family Games,False
+283,Reef Entertainment,False
+284,Benesse,False
+285,Cave,False
+286,U.S. Gold,False
+287,Starpath Corp.,False
+288,Yacht Club Games,False
+289,Evolved Games,False
+290,Indie Games,False
+291,Hackberry,False
+292,Neko Entertainment,False
+293,CBS Electronics,False
+294,CokeM Interactive,False
+295,Agatsuma Entertainment,False
+296,Mad Catz,False
+297,Game Life,False
+298,Rebellion Developments,False
+299,Hamster Corporation,False
+300,Media Factory,False
+301,Data Design Interactive,False
+302,Core Design Ltd.,False
+303,Wargaming.net,False
+304,Nichibutsu,False
+305,Playmates,False
+306,Excalibur Publishing,False
+307,Tru Blu Entertainment,False
+308,Daedalic,False
+309,Telstar,False
+310,Vic Tokai,False
+311,ASCII Media Works,False
+312,Liquid Games,False
+313,Syscom,False
+314,Culture Brain,False
+315,CyberFront,False
+316,Vir2L Studios,False
+317,Pacific Century Cyber Works,False
+318,Nippon Telenet,False
+319,Asgard,False
+320,Paon,False
+321,Axela,False
+322,Yeti,False
+323,Xing Entertainment,False
+324,American Softworks,False
+325,Asmik Ace Entertainment,False
+326,Essential Games,False
+327,Detn8 Games,False
+328,Daito,False
+329,System 3,False
+330,O3 Entertainment,False
+331,CCP,False
+332,Quinrose,False
+333,Bomb,False
+334,Vatical Entertainment,False
+335,Tommo,False
+336,On Demand,False
+337,Mercury Games,False
+338,Funcom,False
+339,CDV Software Entertainment,False
+340,Micro Cabin,False
+341,Merscom LLC,False
+342,Alternative Software,False
+343,Gamecock,False
+344,Phenomedia,False
+345,SSI,False
+346,Happinet,False
+347,Media Works,False
+348,DHM Interactive,False
+349,Adeline Software,False
+350,Asmik Corp,False
+351,Panther Software,False
+352,Tivola,False
+353,Sunrise Interactive,False
+354,Xicat Interactive,False
+355,Funsta,False
+356,White Park Bay Software,False
+357,Aques,False
+358,Slitherine Software,False
+359,Gainax Network Systems,False
+360,EA Games,False
+361,Comfort,False
+362,Data East,False
+363,Global A Entertainment,False
+364,General Entertainment,False
+365,Tripwire Interactive,False
+366,HMH Interactive,False
+367,Sony Music Entertainment,False
+368,Game Arts,False
+369,Imadio,False
+370,Kaga Create,False
+371,Daedalic Entertainment,False
+372,DreamWorks Interactive,False
+373,Moss,False
+374,Havas Interactive,False
+375,SCS Software,False
+376,Myelin Media,False
+377,responDESIGN,False
+378,Insomniac Games,False
+379,FunSoft,False
+380,Flight-Plan,False
+381,LSP Games,False
+382,SPS,False
+383,Bohemia Interactive,False
+384,NDA Productions,False
+385,T&E Soft,False
+386,Simon & Schuster Interactive,False
+387,Pack-In-Video,False
+388,TOHO,False
+389,Ascaron Entertainment GmbH,False
+390,10TACLE Studios,False
+391,Tradewest,False
+392,Gameloft,False
+393,PopTop Software,False
+394,dramatic create,False
+395,Interchannel,False
+396,Interplay Productions,False
+397,Image Epoch,False
+398,Enjoy Gaming ltd.,False
+399,inXile Entertainment,False
+400,PM Studios,False
+401,1C Company,False
+402,GameTek,False
+403,Type-Moon,False
+404,Creative Core,False
+405,TGL,False
+406,Edia,False
+407,Athena,False
+408,Phantom EFX,False
+409,Hearty Robin,False
+410,Culture Publishers,False
+411,Arika,False
+412,Griffin International,False
+413,Nippon Amuse,False
+414,Origin Systems,False
+415,Groove Games,False
+416,7G//AMES,False
+417,Crimson Cow,False
+418,MC2 Entertainment,False
+419,Flashpoint Games,False
+420,Seventh Chord,False
+421,Glams,False
+422,Mitsui,False
+423,Milestone,False
+424,Yuke's,False
+425,Cloud Imperium Games Corporation,False
+426,KID,False
+427,Iceberg Interactive,False
+428,Abylight,False
+429,Princess Soft,False
+430,Licensed 4U,False
+431,Coconuts Japan,False
+432,Evolution Games,False
+433,Encore,False
+434,Locus,False
+435,Elite,False
+436,Misawa,False
+437,Altron,False
+438,Aria,False
+439,Warp,False
+440,Revolution Software,False
+441,Imax,False
+442,iWin,False
+443,Yumedia,False
+444,Experience Inc.,False
+445,Office Create,False
+446,HAL Laboratory,False
+447,Virtual Play Games,False
+448,Zenrin,False
+449,Ecole,False
+450,Grand Prix Games,False
+451,Sonnet,False
+452,DigiCube,False
+453,Fortyfive,False
+454,Marvel Entertainment,False
+455,Mamba Games,False
+456,GN Software,False
+457,Pow,False
+458,Vap,False
+459,Phantagram,False
+460,WayForward Technologies,False
+461,Team17 Software,False
+462,Pony Canyon,False
+463,Ertain,False
+464,Alawar Entertainment,False
+465,System Soft,False
+466,MediaQuest,False
+467,Max Five,False
+468,The Learning Company,False
+469,Sweets,False
+470,Focus Multimedia,False
+471,TechnoSoft,False
+472,Easy Interactive,False
+473,Minato Station,False
+474,Monte Christo Multimedia,False
+475,Lexicon Entertainment,False
+476,Dusenberry Martin Racing,False
+477,Milestone S.r.l,False
+478,Navarre Corp,False
+479,Big Fish Games,False
+480,2D Boy,False
+481,Kool Kizz,False
+482,Devolver Digital,False
+483,Riverhillsoft,False
+484,Playmore,False
+485,Ivolgamus,False
+486,49Games,False
+487,Yamasa Entertainment,False
+488,imageepoch Inc.,False
+489,G.Rev,False
+490,MLB.com,False
+491,Gakken,False
+492,Alvion,False
+493,TopWare Interactive,False
+494,Legacy Interactive,False
+495,Societa,False
+496,Summitsoft,False
+497,Extreme Entertainment Group,False
+498,Fields,False
+499,ASK,False
+500,NetRevo,False
+501,Aerosoft,False
+502,id Software,False
+503,Kamui,False
+504,Views,False
+505,KSS,False
+506,Nexon,False
+507,Intergrow,False
+508,Paon Corporation,False
+509,Her Interactive,False
+510,Berkeley,False
+511,HuneX,False
+512,Just Flight,False
+513,FuRyu Corporation,False
+514,Number None,False
+515,Dorart,False
+516,Strategy First,False
+517,Tryfirst,False
+518,BushiRoad,False
+519,Blue Byte,False
+520,Datam Polystar,False
+521,Sunflowers,False
+522,Kids Station,False
+523,Kokopeli Digital Studios,False
+524,Kando Games,False
+525,Headup Games,False
+526,Cygames,False
+527,Maximum Family Games,False
+528,Fuji,False
+529,fonfun,False
+530,Lighthouse Interactive,False
+531,Marvelous Games,False
+532,Masque Publishing,False
+533,Visco,False
+534,King Records,False
+535,Sold Out,False
+536,Gaga,False
+537,Mycom,False
+538,Introversion Software,False
+539,Codemasters Online,False
+540,Warashi,False
+541,Nitroplus,False
+542,Phoenix Games,False
+543,Imageworks,False
+544,Plenty,False
+545,GOA,False
+546,Giga,False
+547,Technos Japan Corporation,False
+548,Giza10,False
+549,Saurus,False
+550,Karin Entertainment,False
+551,Mirai Shounen,False
+552,Graphsim Entertainment,False
+553,Quintet,False
+554,Revolution (Japan),False
+555,RED Entertainment,False
+556,Epic Games,False
+557,Interchannel-Holon,False
+558,Paradox Development,False
+559,New World Computing,False
+560,Ongakukan,False
+561,Piacci,False
+562,Inti Creates,False
+563,"Interworks Unlimited, Inc.",False
+564,Otomate,False
+565,Naxat Soft,False
+566,EON Digital Entertainment,False
+567,Boost On,False
+568,Rain Games,False
+569,Stainless Games,False
+570,Takuyo,False
+571,Michaelsoft,False
+572,Genterprise,False
+573,Media Entertainment,False
+574,Ascaron Entertainment,False
+575,Commseed,False
+576,UIG Entertainment,False
