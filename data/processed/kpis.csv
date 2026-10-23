@@ -1,0 +1,12 @@
+KPI,Valor,Fórmula,Hipótesis
+Ventas globales,"8,820.0 M",SUM(Global_Sales),Base
+Mediana por título,0.17 M,MEDIAN(Global_Sales),"H1, H3"
+Tasa de hits (>= 1 M),12.6%,COUNT(Global_Sales >= 1) / COUNT(*),"H1, H3"
+Participación de los hits en ventas,64.3%,Ventas títulos >= 1 M / ventas totales,"H1, H3"
+Participación Norteamérica,49.2%,SUM(Norteamérica) / SUM(regiones),H2
+Participación Europa,27.3%,SUM(Europa) / SUM(regiones),H2
+Participación Japón,14.6%,SUM(Japón) / SUM(regiones),H2
+Participación Otros,9.0%,SUM(Otros) / SUM(regiones),H2
+Afinidad Rol (RPG) en Japón,2.60,Share región en género / share región total,H2
+Prima first-party,3.0x,MEDIAN(first-party) / MEDIAN(terceros),H3
+Participación first-party,30.7%,Ventas first-party / ventas totales,H3
