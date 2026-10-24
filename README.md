@@ -72,6 +72,10 @@ Quedaron 16.322 registros. Con eso se armó el modelo estrella.
 | H2b. Japón pesa más en las ventas de los juegos de Rol | Mann-Whitney U | 1,6e-171 | r = 0,381 | Se rechaza H0 |
 | H3. Los juegos first-party venden más que los de terceros | Mann-Whitney U | 8,5e-164 | r = 0,406 (moderado-grande) | Se rechaza H0 |
 
+Las pruebas estan en notebooks/03_hipotesis.ipynb.
+
+![Región dominante por género](img/f2_h2_region_genero.png)
+
 Los tres resultados se mantuvieron al repetir las pruebas solo con la séptima generación PS3, Xbox 360, Wii, DS, PSP.
 
 ### KPIs
