@@ -8,10 +8,10 @@
 | Diego Alejandro Gómez Carmona 
 | Jorge Elias Builes Chavarria 
 | Juan Pablo Vasquez Tobon 
-| Sergio Alvarez Hernandez 
 
 
-Video: 
+
+Video: https://youtu.be/UtMxdR0PCUw
 
 ---
 
