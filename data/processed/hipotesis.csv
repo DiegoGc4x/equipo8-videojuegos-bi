@@ -1,0 +1,5 @@
+Hipótesis (H1),Prueba,Valor p,Efecto,Decisión
+H1. Ventas por título según el género,Kruskal-Wallis,6.1e-202,ε² = 0.060,Se rechaza H0
+H2. Región dominante según el género,Chi-cuadrado,< 1e-300,V = 0.256,Se rechaza H0
+H2b. Japón pesa más en los juegos de Rol,Mann-Whitney U,1.6e-171,r = 0.381,Se rechaza H0
+H3. Los first-party venden más que los terceros,Mann-Whitney U,8.5e-164,r = 0.406,Se rechaza H0
